@@ -1,0 +1,1 @@
+<a href="https://codeclimate.com/github/Wirth12/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/b9719c58fff1f912f4cb/maintainability" /></a>
